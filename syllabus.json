@@ -1,0 +1,380 @@
+[
+  {
+    "day": 1,
+    "week": 1,
+    "track": "Commercial Lease Mechanics & Deal Fluency",
+    "kind": "lesson",
+    "title": "NNN, Modified Gross, and Full-Service Leases: How Money Actually Moves",
+    "brief": "Foundation episode on commercial lease structures from an institutional tenant's perspective. Clearly distinguish Triple Net (NNN — tenant pays base rent plus its pro-rata share of property taxes, building insurance, and common area maintenance), Full-Service Gross (FSG — landlord bundles operating expenses into base rent, usually with a Base Year expense stop so the tenant pays increases over year one), and Modified Gross (hybrid — e.g., tenant pays utilities and janitorial directly while landlord covers taxes/insurance up to a stop). Use a clean fictional example of a 10,000 SF medical office suite at $24/SF NNN with $11/SF pass-throughs versus $35/SF Full-Service Gross with a Year 1 base-year stop, explaining why headline rent never tells the real story and why comparing deals requires translating everything to All-In Occupancy Cost per square foot.",
+    "takeaway": "Always convert competing quotes to 5-year all-in occupancy cost per USF/RSF before comparing headline rents."
+  },
+  {
+    "day": 2,
+    "week": 1,
+    "track": "Commercial Lease Mechanics & Deal Fluency",
+    "kind": "lesson",
+    "title": "CAM Pools, Gross-Up Clauses, Controllable Caps, and Audit Rights",
+    "brief": "Deep dive into operating expense pass-throughs on NNN and gross leases. Explain how pro-rata share is calculated (tenant RSF divided by building total RSF — and watch whether denominator is total rentable area or only leased area). Explain gross-up clauses (e.g., grossing variable expenses like janitorial and utilities up to 95% or 100% occupancy so a landlord isn't subsidizing vacant space — and why gross-up must be applied consistently to BOTH the base year and subsequent years!). Cover controllable vs. uncontrollable expenses (taxes, insurance, utilities, snow removal are usually carved out of caps), cumulative vs. non-cumulative caps (always push for non-cumulative 3-5% caps), capital expenditure exclusions (amortized over useful life only when reducing OpEx or legally mandated), management fee caps (3-4% of gross revenues), and annual audit rights with a 90-to-180 day lookback window.",
+    "takeaway": "Insist on non-cumulative caps on controllable CAM, consistent base-year gross-up, and explicit capital-expenditure exclusions."
+  },
+  {
+    "day": 3,
+    "week": 1,
+    "track": "Commercial Lease Mechanics & Deal Fluency",
+    "kind": "lesson",
+    "title": "Tenant Improvement Allowances, Turnkey Build-Outs, and Amortization Traps",
+    "brief": "Break down how space build-outs are financed inside commercial leases. Compare Turnkey delivery (landlord bears cost-overrun risk based on an agreed space plan and work letter) vs. a stated TI Allowance ($/USF or $/RSF, where tenant manages construction or reimburses landlord and eats cost overruns). Explain the critical financial reality: TI allowances are rarely free money — landlords bake them into base rent amortized at 7-10% over the initial term! Teach the 'amortized TI cliff' trap: if a tenant renews without noticing that the initial rent carried $6/SF of amortized build-out cost, they accidentally keep paying for drywall they already paid off. Also cover TI use-it-or-lose-it deadlines, rent-credit conversion rights for unused TI, and landlord construction management fees (push for 0-3% max).",
+    "takeaway": "Always strip amortized build-out costs out of base rent at renewal and negotiate rent-credit rights for unused TI dollars."
+  },
+  {
+    "day": 4,
+    "week": 1,
+    "track": "Commercial Lease Mechanics & Deal Fluency",
+    "kind": "walkthrough",
+    "title": "Deal Walkthrough: Renewing a $26 NNN Suite vs. Relocating to a $34 Gross Building",
+    "brief": "Walk through a realistic institutional clinical/office renewal scenario step by step with concrete fictional numbers. Scenario: 15,000 RSF outpatient space expiring in 18 months. Option A (Renew in place): $26/SF NNN, $10/SF OpEx escalating 3%/yr, 3% annual base rent bumps, $15/SF refresh TI, zero downtime or moving cost. Option B (Relocate across town): $34/SF Full-Service Gross with Year 1 base-year stop, 2.5% annual bumps, 4 months free rent, $45/SF TI, BUT build-out costs $65/SF (so $20/SF = $300K out-of-pocket tenant capital), plus $150K moving/IT costs and operational disruption. Walk through Year 1 cash, 7-year total occupancy cost, NPV at a 6% institutional discount rate, and how to use Option B as legitimate market leverage to sharpen Option A.",
+    "takeaway": "Never compare Option A and Option B on base rent — include out-of-pocket CapEx above TI, move/IT costs, and downtime in the NPV."
+  },
+  {
+    "day": 5,
+    "week": 1,
+    "track": "Commercial Lease Mechanics & Deal Fluency",
+    "kind": "bridge",
+    "title": "Finance-to-Director Bridge: Turning Occupancy Cost Ledgers Into Renewal Leverage",
+    "brief": "Show how a real estate finance background gives a Director an unfair advantage before a single broker call happens. Explain how historical paid-vs-budgeted CAM reconciliations, uncollected TI balances, open landlord maintenance tickets, and true $/SF all-in cost across comparable buildings create concrete leverage at the renewal table. Explain how to translate raw ledger findings into three bullet points a leasing lead or broker can use immediately when countering a landlord's opening proposal.",
+    "takeaway": "Walk into every renewal with three verified facts from your own ledger: true all-in $/SF, CAM variance history, and open landlord service failures."
+  },
+  {
+    "day": 6,
+    "week": 1,
+    "track": "Commercial Lease Mechanics & Deal Fluency",
+    "kind": "red_flags",
+    "title": "Five Lease Clauses That Quietly Cost Institutions Hundreds of Thousands",
+    "brief": "Rapid-fire clause drill covering five high-impact legal/business terms every Real Estate Director must spot on sight: (1) Holdover rent — 150-200% penalty plus consequential damages (push for 125% for the first 60-90 days and zero consequential damages); (2) SNDA (Subordination, Non-Disturbance, and Attornment) — without Non-Disturbance, a lender foreclosure can wipe out your lease and millions in clinical build-out; (3) Estoppel Certificates — signing carelessly can waive landlord defaults or uncollected TI; (4) Landlord Relocation Rights — catastrophic for specialized medical/lab space, must be struck; (5) Operating Expense vs. Capital Repair definitions (roof, structure, HVAC replacement).",
+    "takeaway": "Strike relocation rights on specialized space, require an SNDA with non-disturbance, and check open claims before signing any estoppel."
+  },
+  {
+    "day": 7,
+    "week": 1,
+    "track": "Commercial Lease Mechanics & Deal Fluency",
+    "kind": "panel_qa",
+    "title": "Week 1 Executive & Panel Q&A Drill: Lease Mechanics Fluency",
+    "brief": "Five rapid-fire executive and interview panel questions covering Week 1: (1) How do you compare a NNN quote against a Full-Service Gross quote? (2) What is a gross-up clause and what goes wrong if it's drafted poorly? (3) Why can renewing at your existing rent sometimes mean overpaying? (4) Why does an institutional tenant care about an SNDA? (5) How do you use internal operating-cost data to improve deal economics? Brief pause after each question for aloud rehearsal, followed by crisp 45-second Director-level answers.",
+    "takeaway": "Practice answering each question in three clean beats: the principle, the financial risk, and what you require in the lease."
+  },
+  {
+    "day": 8,
+    "week": 2,
+    "track": "Transaction Strategy & Negotiation Playbook",
+    "kind": "lesson",
+    "title": "The Institutional Transaction Lifecycle: From Space Request to Executed Lease",
+    "brief": "Map the complete end-to-end lifecycle of an institutional commercial real estate transaction in 8 clear stages: (1) Programmatic Space Request & Need Validation (can existing space absorb it?); (2) Site Search / Market Survey Authorization; (3) RFP Issuance & Tours; (4) Financial Comparison & Test Fits; (5) Letter of Intent (LOI) & Business Terms Negotiation; (6) Formal Lease Authorization, Funding Verification & Executive/Board Approval; (7) Legal Drafting with Counsel; (8) Execution, Payment Setup, TI Tracking & Lease Accounting Onboarding. Highlight where deals stall (late financial data, unclear approval thresholds, legal surprises from thin LOIs) and how a Director keeps the whole chain moving.",
+    "takeaway": "Most transaction delays happen because business terms weren't locked at LOI or funding/approvals weren't sequenced early."
+  },
+  {
+    "day": 9,
+    "week": 2,
+    "track": "Transaction Strategy & Negotiation Playbook",
+    "kind": "lesson",
+    "title": "Mastering the Letter of Intent (LOI): Lock the Economics Before Legal Starts",
+    "brief": "Explain why the non-binding LOI is actually where 80% of the economic value of a deal is won or lost. Once a deal goes to attorneys for lease drafting, every open business issue costs thousands in legal fees and slows closing by weeks. Walk through the essential LOI checklist: exact RSF/USF and load factor, term and commencement trigger (delivery vs. substantial completion), base rent & escalations, abatement/free rent, TI allowance and unused-TI credit, renewal/expansion/termination options, OpEx structure and controllable caps, parking ratios, signage, SNDA requirement, and holdover cap. Explain why 'binding exclusivity' vs. 'non-binding business terms' matters.",
+    "takeaway": "Never let a thin 1-page LOI go to legal — lock caps, options, TI rules, and SNDA in the LOI while you still have competitive leverage."
+  },
+  {
+    "day": 10,
+    "week": 2,
+    "track": "Transaction Strategy & Negotiation Playbook",
+    "kind": "lesson",
+    "title": "Building a Negotiation Mandate: Target, Fallback, Walk-Away, and Concession Pricing",
+    "brief": "Teach how a Director owns the negotiation strategy even when a senior leasing specialist or broker conducts the day-to-day calls. A written Negotiation Mandate fits on one page and specifies: (1) Objective & Institutional Priority; (2) Target Terms (opening ask backed by market comps); (3) Fallback Authority (where the lead negotiator can move without re-approving); (4) Hard Walk-Away / Escalation Line; (5) Concession Trade Matrix — the exact dollar NPV of every lever (e.g., trading 1 month of free rent vs. $0.50/SF base rent vs. a 0.5% escalation bump vs. $5/SF TI). Show how pricing concessions in advance prevents giving away expensive long-term compounding terms for cheap short-term optics.",
+    "takeaway": "A 0.5% annual escalation reduction compounds every year and renewal; know its exact NPV before trading it for one month of free rent."
+  },
+  {
+    "day": 11,
+    "week": 2,
+    "track": "Transaction Strategy & Negotiation Playbook",
+    "kind": "walkthrough",
+    "title": "Deal Walkthrough: Overseeing a Renewal Negotiation as a Calm, Fact-Driven Director",
+    "brief": "Walk through a realistic negotiation cycle on a 25,000 SF headquarters/clinical lease where the landlord opens 18% above prior rent citing 'market inflation.' Show how the Director and the leasing lead work together in clear lanes: the Director arms the team with true comp data, unaddressed building issues, and a pre-priced mandate; the leasing lead runs the counterparty dialogue using calm calibrated questions ('How are you getting to $31/SF when Class A comps with fresh TI are trading at $27?'); and how to handle a landlord's artificial deadline without blinking.",
+    "takeaway": "Time and alternatives create leverage — starting 24 months ahead of expiration is the single highest-ROI negotiation tactic."
+  },
+  {
+    "day": 12,
+    "week": 2,
+    "track": "Transaction Strategy & Negotiation Playbook",
+    "kind": "bridge",
+    "title": "Finance-to-Director Bridge: Net Effective Rent (NER) and NPV Trade-Offs",
+    "brief": "Teach Net Effective Rent (NER) cleanly in plain spoken English so the Director can calculate and interpret it in any meeting. NER takes the Present Value of all lease cash flows (base rent + OpEx minus free rent minus TI allowance) and converts it into an equivalent flat annual $/SF rate over the term. Walk through why two deals with identical nominal average rents can have very different NERs depending on upfront cash vs. backend escalations, and why landlords often prefer giving free rent or TI over lowering face rent (because higher face rent supports their building valuation and lender covenants!).",
+    "takeaway": "Landlords care deeply about face rent for building valuation — use that asymmetry to extract free rent, TI, or expense caps instead."
+  },
+  {
+    "day": 13,
+    "week": 2,
+    "track": "Transaction Strategy & Negotiation Playbook",
+    "kind": "red_flags",
+    "title": "Options That Protect Optionality: Renewal, FMV Arbitration, ROFO, ROFR, and Termination",
+    "brief": "Explain the five core optionality clauses in institutional leases and where they go wrong: (1) Renewal Options — notice windows (never shorter than 6-9 months, tracked 18 months out) and rent formula (fixed % cap vs. 95% of Fair Market Value); (2) FMV 'Baseball' Arbitration — each side submits one number and the neutral appraiser picks one, forcing both sides to stay reasonable; (3) ROFO (Right of First Offer — landlord offers to you first) vs. ROFR (Right of First Refusal — you match a third-party deal, landlords hate it because it chills outside offers); (4) Contraction & Early Termination Rights (unamortized TI + brokerage commission fee formula); (5) Continuous Operation / Go-Dark clauses.",
+    "takeaway": "Baseball arbitration keeps FMV renewal disputes realistic, and explicit notice-survival or reminder clauses prevent accidental option forfeiture."
+  },
+  {
+    "day": 14,
+    "week": 2,
+    "track": "Transaction Strategy & Negotiation Playbook",
+    "kind": "panel_qa",
+    "title": "Week 2 Executive & Panel Q&A Drill: Transaction Strategy & Negotiation",
+    "brief": "Five rapid-fire panel questions covering Week 2: (1) Walk me through how you govern a major lease transaction from start to finish. (2) What belongs in a strong LOI before Counsel touches it? (3) How do you oversee a senior negotiator if you haven't personally negotiated 50 deals? (4) Why would a landlord give you $10/SF more in TI rather than drop base rent by $1.50/SF? (5) How do you handle FMV renewal pricing so you don't get trapped? Pause for spoken practice, then model 45-second answers.",
+    "takeaway": "Own the mandate, the economics, the calendar, and the approvals — that is what a Director does on every transaction."
+  },
+  {
+    "day": 15,
+    "week": 3,
+    "track": "Acquisitions, Dispositions & Lease-vs-Buy",
+    "kind": "lesson",
+    "title": "Lease vs. Buy Analysis: NPV, Discount Rates, and Institutional Cost of Capital",
+    "brief": "CCIM CI 101/103 depth tailored to tax-exempt institutions (universities and health systems). Explain why corporate lease-vs-buy textbooks focus on depreciation tax shields that DO NOT apply to tax-exempt non-profits! Instead, institutional lease-vs-buy hinges on four drivers: (1) Discount rate / institutional cost of capital (e.g., tax-exempt bond rate vs. internal hurdle rate — small swings from 5% to 6.5% frequently flip the answer); (2) Expected hold period (usually 10-15+ years needed to beat transaction and CapEx costs); (3) True all-in operating + lifecycle capital reserve cost (roof, HVAC, parking lot); (4) Residual / terminal value at year 10-20 and strategic mission control (e.g., proximity to campus or specialized clinical build-out).",
+    "takeaway": "For a tax-exempt institution, lease-vs-buy hinges on discount rate, hold horizon, lifecycle CapEx reserves, and mission control — not tax depreciation."
+  },
+  {
+    "day": 16,
+    "week": 3,
+    "track": "Acquisitions, Dispositions & Lease-vs-Buy",
+    "kind": "lesson",
+    "title": "Site Selection and Space Programming: Picking the Right Building Before Pricing It",
+    "brief": "Walk through how institutional site searches work in practice: translating a clinical or administrative program into hard requirements (USF needed, floor plate geometry, parking ratio per 1,000 SF — clinical often needs 5-6 spaces/1,000 vs. 3-4 for office, ambulance/ADA access, ceiling height/MEP capacity, transit/patient demographics, zoning). Explain how to build a weighted scoring matrix (Mission/Access, Physical Fit, Schedule/Speed to Open, All-In 10-Year Cost, Expansion Capacity) so site selection is fact-based and defensible to executives rather than driven by whoever toured last.",
+    "takeaway": "Separate must-have physical/zoning dealbreakers from nice-to-haves before touring a single site."
+  },
+  {
+    "day": 17,
+    "week": 3,
+    "track": "Acquisitions, Dispositions & Lease-vs-Buy",
+    "kind": "lesson",
+    "title": "Acquisition Due Diligence: Environmental, Title, Survey, Zoning, and Building Condition",
+    "brief": "Cover the five core due diligence pillars during a 45-to-90 day feasibility period on a property purchase: (1) Environmental — ASTM Phase I ESA (checking for Recognized Environmental Conditions / RECs; if found, Phase II soil/groundwater testing before closing); (2) Property Condition Assessment (PCA) — independent engineer's 10-year capital replacement schedule (roof, chillers, elevators, facade, ADA compliance); (3) Title Commitment & Exception Review — easements, liens, use restrictions, covenants; (4) ALTA/NSPS Land Title Survey — boundaries, encroachments, access, flood zone; (5) Lease Audit & Tenant Estoppels (if buying an occupied building) plus Zoning Compliance Letter.",
+    "takeaway": "Never waive diligence contingencies until Phase I environmental, PCA 10-year CapEx, ALTA survey, and title exceptions are signed off."
+  },
+  {
+    "day": 18,
+    "week": 3,
+    "track": "Acquisitions, Dispositions & Lease-vs-Buy",
+    "kind": "walkthrough",
+    "title": "Deal Walkthrough: Acquiring a Leased Suburban Clinical Building vs. Renewing",
+    "brief": "Realistic case walkthrough: an institution currently leases 30,000 SF in a 45,000 SF building at $22/SF NNN ($660K/yr rent). The landlord offers to sell the whole building for $8.5M ($189/SF). Walk through the exact underwriting: purchase price + $400K closing/immediate CapEx = $8.9M basis; existing third-party tenant pays $300K/yr net rent; financing at 4.75% tax-exempt debt vs. 6% hurdle rate; property tax exemption gain (if institutional use qualifies) vs. partial taxable portion for the third-party tenant; 15-year NPV sensitivity showing exactly what discount rate or terminal cap rate flips Renew to Buy.",
+    "takeaway": "Always run a two-way sensitivity table (discount rate vs. terminal value / CapEx) so executives see what assumption actually drives the recommendation."
+  },
+  {
+    "day": 19,
+    "week": 3,
+    "track": "Acquisitions, Dispositions & Lease-vs-Buy",
+    "kind": "bridge",
+    "title": "Finance-to-Director Bridge: True Cost of Ownership and Capital Replacement Reserves",
+    "brief": "Explain why naive lease-vs-buy spreadsheets understate ownership cost: they compare lease rent to current-year operating expenses and forget roof replacements, chiller overhauls, parking repaving, property management overhead, and institutional opportunity cost of capital. Show how having actual line-by-line historical operating budgets across existing owned buildings gives a Director real empirical benchmarks ($/SF for utilities, maintenance, janitorial, taxes, CapEx reserve) instead of broker guesses.",
+    "takeaway": "Real owned-building operating history plus an explicit $/SF annual capital reserve is the only honest baseline for ownership alternatives."
+  },
+  {
+    "day": 20,
+    "week": 3,
+    "track": "Acquisitions, Dispositions & Lease-vs-Buy",
+    "kind": "red_flags",
+    "title": "Five Acquisition and Disposition Traps (Zoning, Easements, Deed Restrictions, Prorations)",
+    "brief": "Cover five costly traps on purchases and sales: (1) Buying a building with an unrecorded or restrictive covenant prohibiting clinical or institutional use; (2) Ignoring the 'taxable vs. exempt' transition timing on closing prorations (property tax rolls lock on taxable status date, so an exempt buyer still pays the current tax year!); (3) Inheriting existing third-party leases with below-market renewal options or undisclosed landlord TI obligations; (4) Dispositions — selling surplus institutional property without checking bond-covenant restrictions (private business use limits on tax-exempt bonds!) or board/attorney-general approval rules for non-profits; (5) Underestimating demolition or environmental remediation costs.",
+    "takeaway": "Check tax-roll timing, bond-counsel restrictions, and non-profit regulatory approvals before committing to any purchase or disposition timeline."
+  },
+  {
+    "day": 21,
+    "week": 3,
+    "track": "Acquisitions, Dispositions & Lease-vs-Buy",
+    "kind": "panel_qa",
+    "title": "Week 3 Executive & Panel Q&A Drill: Acquisitions, Site Selection, and Lease-vs-Buy",
+    "brief": "Five rapid-fire panel questions covering Week 3: (1) How do you evaluate whether an institution should buy a building it currently leases? (2) What are the non-negotiable due diligence reports before buying commercial property? (3) What makes non-profit lease-vs-buy math different from private corporate real estate? (4) How do you run a disciplined site selection across competing internal stakeholders? (5) What hidden risks exist when disposing of a surplus building? Pauses for aloud rehearsal + 45-second model answers.",
+    "takeaway": "Anchor ownership answers in sensitivity analysis, true lifecycle CapEx, and long-term mission control."
+  },
+  {
+    "day": 22,
+    "week": 4,
+    "track": "Healthcare & Higher-Ed Institutional Real Estate",
+    "kind": "lesson",
+    "title": "Stark Law Space-Rental Exception (42 CFR 411.357): The Six Must-Haves",
+    "brief": "Essential healthcare real estate compliance lesson. Under the federal Physician Self-Referral Law (Stark Law), ANY lease or space arrangement between a health system and a physician or physician group (whether the health system is landlord OR tenant!) is strictly liable unless it fits the Space Rental Exception (42 CFR § 411.357(a)). Teach all six mandatory elements cold: (1) Written and signed by both parties; (2) Specifies the exact premises covered; (3) Term of at least 1 year (and no amending rent during year 1); (4) Space does not exceed what is reasonable and necessary for the legitimate business purpose (and exclusive use when leased); (5) Rental charges are set in advance, consistent with Fair Market Value (FMV), and NOT determined in any manner that takes into account the volume or value of referrals; (6) Commercially reasonable even if no referrals occurred. Mention the 90-day signature/writing grace rules and indefinite holdover rule (only if on the exact same terms and originally compliant!).",
+    "takeaway": "Stark is strict liability — an unsigned lease, undocumented free space, or above/below-FMV rent with a referral source is a major compliance violation."
+  },
+  {
+    "day": 23,
+    "week": 4,
+    "track": "Healthcare & Higher-Ed Institutional Real Estate",
+    "kind": "lesson",
+    "title": "Anti-Kickback Statute, Fair Market Value Appraisals, and Commercial Reasonableness",
+    "brief": "Build on Stark by explaining the federal Anti-Kickback Statute (AKS — criminal intent-based statute) and its space rental safe harbor, plus how healthcare institutions defend Fair Market Value (FMV) and Commercial Reasonableness in practice. Explain why you cannot rely on a broker's informal email to establish FMV on a physician-related lease — you need an independent, certified healthcare real estate appraiser (MAI) using comparable non-referral market data, accounting for TI, free rent, parking, and shared common areas. Explain why 'Commercial Reasonableness' is a separate test from FMV: paying fair market rent for 5,000 SF of empty office space you don't actually need STILL fails commercial reasonableness.",
+    "takeaway": "FMV proves the price is market; Commercial Reasonableness proves the institution actually needs the space regardless of referrals."
+  },
+  {
+    "day": 24,
+    "week": 4,
+    "track": "Healthcare & Higher-Ed Institutional Real Estate",
+    "kind": "lesson",
+    "title": "Medical Office Buildings (MOB), Outpatient Clinics, and Hospital-Based Space",
+    "brief": "Explain why clinical/medical real estate behaves very differently from standard office leasing. Cover: (1) Build-out intensity — clinical space runs $150-$350+/SF (plumbing in every exam room, lead shielding for imaging, medical gas, emergency power, infection-control HVAC) versus $60-$100/SF for standard office, making relocation vastly more expensive and giving landlords renewal leverage unless managed 24-36 months out; (2) Hospital-Based Outpatient Department (HOPD) / provider-based billing rules (distance from main campus, signage, dedicated entrance, life-safety code NFPA 101 compliance); (3) State Certificate of Need (CON) and health-department architectural review timelines (adding 6-18 months to project schedules, so lease commencement MUST be tied to regulatory approval!).",
+    "takeaway": "High clinical build-out costs and regulatory approval timelines mean medical renewals must start 24-36 months early and new leases need CON/permitting contingencies."
+  },
+  {
+    "day": 25,
+    "week": 4,
+    "track": "Healthcare & Higher-Ed Institutional Real Estate",
+    "kind": "walkthrough",
+    "title": "Deal Walkthrough: Structuring a Clinical Lease That Clears Legal, Finance, and Compliance",
+    "brief": "Walk through a realistic scenario: a clinical department wants to open a 12,000 SF imaging and exam clinic in a physician-owned suburban medical office building. Walk step by step through the Director's checklist: (1) Flag the physician-ownership relationship immediately for Legal/Compliance; (2) Commission an independent MAI FMV appraisal before locking final rent; (3) Tie lease commencement to state health-department approval and landlord substantial completion; (4) Verify whether high landlord TI allowance stays within FMV norms; (5) Model all-in occupancy cost including specialized HVAC/janitorial and ASC 842 balance sheet impact; (6) Package a crisp one-page authorization brief for executive approval.",
+    "takeaway": "A Director spots physician ownership, regulatory lead times, and FMV compliance at Stage 1 — never the week before signing."
+  },
+  {
+    "day": 26,
+    "week": 4,
+    "track": "Healthcare & Higher-Ed Institutional Real Estate",
+    "kind": "bridge",
+    "title": "Finance-to-Director Bridge: Non-Profit Property Tax Exemptions and PILOTs",
+    "brief": "Teach how property tax exemptions work for non-profit universities and hospitals (e.g., New York RPTL § 420-a principles: owned by an exempt organization AND used exclusively for exempt educational/charitable/hospital purposes). Explain three critical rules every Director must know: (1) Leased property owned by a private for-profit landlord is generally TAXABLE — even when a tax-exempt hospital is the tenant — which is a huge hidden economic driver in lease-vs-buy comparisons! (2) Leasing a portion of an owned exempt building to a private commercial retail tenant can make that portion taxable (partial exemption); (3) PILOT (Payment In Lieu Of Taxes) agreements and Industrial Development Agency (IDA) structures, plus strict annual exemption filing deadlines before the municipal taxable status date.",
+    "takeaway": "Private landlords pass real estate taxes straight through to tax-exempt tenants; owning an exempt building can eliminate $4-$8/SF/yr in permanent occupancy cost."
+  },
+  {
+    "day": 27,
+    "week": 4,
+    "track": "Healthcare & Higher-Ed Institutional Real Estate",
+    "kind": "red_flags",
+    "title": "Five Institutional Real Estate Traps (Holdovers, Timeshares, Shared Space, CON, Capital Splits)",
+    "brief": "Rapid-fire compliance and operations drill: (1) Letting a physician-related lease drift into an undocumented holdover or changing rent orally — instant Stark risk; (2) Timeshare / part-time clinical space licenses — strict rules on per-click or percentage fees (prohibited!); (3) Unbilled ancillary or shared space used by affiliates or third parties; (4) Signing a lease with a fixed rent commencement date before municipal/state clinical approvals clear; (5) Confusing capital project budgets (one-time build-out) with ongoing operating occupancy budgets (rent + OpEx allocated to clinical departments).",
+    "takeaway": "Keep holdover leases documented, prohibit percentage/per-click clinical rent, and tie commencement to regulatory approvals."
+  },
+  {
+    "day": 28,
+    "week": 4,
+    "track": "Healthcare & Higher-Ed Institutional Real Estate",
+    "kind": "panel_qa",
+    "title": "Week 4 Executive & Panel Q&A Drill: Healthcare & Higher-Ed Real Estate",
+    "brief": "Five rapid-fire panel questions covering Week 4: (1) What are the key Stark Law requirements for a clinical space lease? (2) Why is commercial reasonableness tested separately from fair market value? (3) Why does relocating an outpatient clinic cost so much more than relocating administrative offices? (4) How do property tax exemptions change a university or health system's lease-vs-buy math? (5) What happens if a leased facility needs state regulatory approval before opening? Pauses + crisp 45-second model answers.",
+    "takeaway": "Combining finance fluency with healthcare compliance fluency puts you ahead of generic commercial brokers."
+  },
+  {
+    "day": 29,
+    "week": 5,
+    "track": "Renewal Governance, Brokers & Revenue Assets",
+    "kind": "lesson",
+    "title": "Running an 18-to-36 Month Renewal Calendar Off Notice Dates",
+    "brief": "Directly addresses Function 3 of a Director of Portfolio Management role. Explain why tracking ONLY lease expiration dates fails: by the time a lease is 6 months from expiring, the renewal option notice deadline has already passed and relocating a clinic or major department is physically impossible — handing 100% of the leverage to the landlord! Teach how to anchor the portfolio calendar on the LAST SAFE DECISION DATE: work backward from option notice date (typically 9-12 months before expiry), subtract approval and negotiation time (6-9 months), and trigger formal review 24-36 months out for large/clinical spaces and 18 months out for standard office. Cover managing an expiration wall (smoothing spikes where 20%+ of rent expires in one year).",
+    "takeaway": "Run the portfolio off last-safe-decision dates and notice deadlines — once a notice window passes, leverage is gone."
+  },
+  {
+    "day": 30,
+    "week": 5,
+    "track": "Renewal Governance, Brokers & Revenue Assets",
+    "kind": "lesson",
+    "title": "The One-Page Renewal Decision Brief: Integrating All Eight Inputs",
+    "brief": "Teach the exact anatomy of an executive-ready one-page Renewal Decision Brief that brings every required input onto one page BEFORE a leadership review: (1) Recommendation & Decision Needed at the top (Renew, Resize, Relocate, Consolidate, Buy, or Exit) plus Notice Deadline; (2) Stakeholder Feedback & Programmatic Need; (3) Space Utilization metrics; (4) Property Condition & Open Landlord Issues; (5) All-In Occupancy Cost (Base Rent, CAM, Taxes, Utilities, Maintenance per SF); (6) Financial Analysis (remaining TI balance, escalations, 5-year renewal vs. move NPV); (7) Market Alternatives / Executed Comps from brokers; (8) Alignment with Institutional / Regional Campus Strategy. Show how assigning a named owner and due date to each input eliminates 30-page chaotic decks.",
+    "takeaway": "One page per lease, decision at the top, eight inputs gathered by set dates — that is how a Director turns reactive renewals into a system."
+  },
+  {
+    "day": 31,
+    "week": 5,
+    "track": "Renewal Governance, Brokers & Revenue Assets",
+    "kind": "lesson",
+    "title": "Directing Tenant-Rep Brokers: Scopes, Fee Structures, Rebates, and Conflicts",
+    "brief": "Directly closes Function 4 (directing external advisers, scoping, procurement, and fee oversight). Explain how commercial brokerage economics actually work: landlords normally pay tenant-rep commissions (e.g., 3-4% of aggregate lease value on new deals, 1.5-2% on renewals), which creates a subtle built-in conflict — a broker earns MORE when you sign a longer, more expensive lease! Teach how institutional occupiers align incentives: (1) Written Master Brokerage Agreement with clear scope, KPIs, and quarterly market-intel deliverables; (2) Fee sharing / annual rebate tiers where excess landlord commissions above an agreed threshold rebate back to the institution; (3) Strict conflict-of-interest / dual-agency disclosure rules (never let the same broker represent your landlord on the building you are touring without written waiver); (4) Clear rules on when you DO vs. DO NOT deploy a broker (e.g., simple straight renewals vs. competitive market searches).",
+    "takeaway": "Understand how your broker gets paid so you can align their incentives via fee caps, rebates, written scopes, and strict dual-agency controls."
+  },
+  {
+    "day": 32,
+    "week": 5,
+    "track": "Renewal Governance, Brokers & Revenue Assets",
+    "kind": "walkthrough",
+    "title": "Deal Walkthrough: Reviewing a Master Brokerage Agreement Before Extension",
+    "brief": "Walk through how a Director prepares an executive review 12 months before a multi-year brokerage contract's extension notice deadline: (1) Pull complete deal-by-deal fee history (what the institution paid directly + what landlords paid the broker on institutional deals); (2) Audit rebate tier calculations against actual contract wording; (3) Measure execution KPIs (average savings vs. asking rent, turnaround on market comps, transaction cycle time, stakeholder satisfaction); (4) Benchmark against peer universities and health systems (retainer + rebate vs. pure commission vs. hybrid); (5) Present three clean options to the VP: Extend as-is, Renegotiate fee tiers/SLAs, or Run a competitive RFP.",
+    "takeaway": "Start adviser contract reviews 12 months before the notice date with hard fee-history data and peer benchmarks."
+  },
+  {
+    "day": 33,
+    "week": 5,
+    "track": "Renewal Governance, Brokers & Revenue Assets",
+    "kind": "bridge",
+    "title": "Finance-to-Director Bridge: Managing Revenue Assets, Retail Mix, and Cell-Tower Licenses",
+    "brief": "Directly addresses Function 5 (revenue-generating real estate: third-party retail, restaurants, banking, ground leases, and cell-tower/rooftop licenses). Flip the lens to the LANDLORD seat: (1) First fix the foundation — join signed lease terms, billing schedules, escalations, and cash receipts so zero expired holdovers or missed rent steps leak revenue; (2) Understand retail lease mechanics — Base Rent + Percentage Rent (e.g., 5% of gross sales above a natural breakpoint = Base Rent / 5%), CAM recovery, co-tenancy clauses, radius restrictions, and tenant mix (anchoring daily foot traffic vs. cannibalizing neighbors); (3) Understand telecom / cell-tower licenses — typically 5-year terms with multiple auto-renewals, 3% annual escalations, co-location revenue-sharing rights, and structural/RF non-interference clauses.",
+    "takeaway": "On revenue real estate, collect every dollar already owed and re-sign expired leases before chasing exotic retail strategy."
+  },
+  {
+    "day": 34,
+    "week": 5,
+    "track": "Renewal Governance, Brokers & Revenue Assets",
+    "kind": "red_flags",
+    "title": "Five Adviser, Brokerage, and Landlord-Side Traps",
+    "brief": "Rapid-fire trap drill: (1) Dual agency where your brokerage firm also leases the landlord's building — creates asymmetric information; (2) 'Holdover commission tails' in expired brokerage agreements; (3) Retail co-tenancy clauses that let a restaurant slash rent by 50% if an anchor tenant leaves; (4) Unaudited gross-sales reporting on percentage-rent leases; (5) Telecom licenses granting 'unrestricted subleasing/co-location' so a tower operator pockets 100% of secondary carrier rent on your roof.",
+    "takeaway": "Police dual agency, audit percentage-rent sales, and capture 50% of co-location fees on rooftop telecom licenses."
+  },
+  {
+    "day": 35,
+    "week": 5,
+    "track": "Renewal Governance, Brokers & Revenue Assets",
+    "kind": "panel_qa",
+    "title": "Week 5 Executive & Panel Q&A Drill: Renewal Governance, Brokers, and Revenue",
+    "brief": "Five rapid-fire panel questions covering Week 5: (1) How would you build a formal lease renewal process from scratch? (2) What goes on a one-page renewal recommendation? (3) How do you evaluate whether an external brokerage firm is earning its fees? (4) How do you approach third-party retail and mixed-use revenue properties? (5) What makes cell-tower licenses different from standard leases? Pauses + crisp 45-second model answers.",
+    "takeaway": "Structure, notice-date discipline, and clean financial tracking turn scattered portfolio tasks into repeatable governance."
+  },
+  {
+    "day": 36,
+    "week": 6,
+    "track": "ASC 842 Lease Accounting & Portfolio Data Governance",
+    "kind": "lesson",
+    "title": "ASC 842 Fundamentals: Operating vs. Finance Leases and the Five Classification Tests",
+    "brief": "Master the core framework of FASB ASC 842 (Leases) for lessees — including not-for-profit institutions (which follow ASC 842 fully, with NO public-vs-private disclosure exemption for conduit bond obligors!). Under ASC 842, virtually all leases over 12 months put a Right-of-Use (ROU) Asset and a Lease Liability on the balance sheet. Walk through the five classification tests (842-10-25-2) — if ANY ONE is met, it is a Finance Lease (front-loaded interest + amortization expense); otherwise it is an Operating Lease (straight-line single lease expense): (1) Ownership transfers at end of term; (2) Purchase option reasonably certain to be exercised; (3) Lease term is a major part of remaining economic life (commonly 75%); (4) Present value of lease payments equals or exceeds substantially all of fair value (commonly 90%); (5) Specialized asset with no alternative use to landlord.",
+    "takeaway": "Both operating and finance leases go on the balance sheet; the five classification tests determine whether expense is straight-line or front-loaded."
+  },
+  {
+    "day": 37,
+    "week": 6,
+    "track": "ASC 842 Lease Accounting & Portfolio Data Governance",
+    "kind": "lesson",
+    "title": "Lease Term, Reasonably Certain Options, and the Incremental Borrowing Rate (IBR)",
+    "brief": "Explain the two inputs that swing an ASC 842 lease liability by millions of dollars: (1) Lease Term (842-10-30-1) — starts with the noncancellable period, PLUS any renewal option period the tenant is 'reasonably certain' to exercise (high threshold, ~75-85%+ — driven by economic incentives like heavy unamortized clinical build-out or below-market option rent), PLUS any period covered by a LANDLORD-ONLY termination option! Clarify month-to-month leases: short-term only if BOTH parties can cancel with no more than insignificant penalty. (2) Discount Rate — use the rate implicit in the lease if readily determinable (almost never known to a tenant), otherwise the lessee's Incremental Borrowing Rate (IBR): collateralized borrowing rate for a similar term and economic environment. Show how a 100 bps IBR error shifts a 10-year liability by ~4-5%.",
+    "takeaway": "Heavy specialized build-out can make a renewal option 'reasonably certain,' instantly doubling the recorded lease liability."
+  },
+  {
+    "day": 38,
+    "week": 6,
+    "track": "ASC 842 Lease Accounting & Portfolio Data Governance",
+    "kind": "lesson",
+    "title": "Lease vs. Non-Lease Components: Fixed CAM, Taxes, Insurance, and Practical Expedients",
+    "brief": "Clear up one of the most frequently bungled areas of ASC 842! Explain the difference between: (1) Lease component (right to use the space); (2) Non-lease components (actual services transferred to the tenant, like CAM, janitorial, utilities); (3) Non-components (property taxes and building insurance — they do NOT transfer a separate good or service to the tenant!). Explain the accounting impact: Variable pass-throughs (like actual billed NNN CAM/taxes) are expensed as incurred and excluded from the liability. FIXED CAM is a non-lease component — if the institution elects the practical expedient to combine lease and non-lease components, fixed CAM goes INTO the lease liability; if NOT combined, fixed CAM is allocated out based on standalone prices, and fixed taxes/insurance are allocated proportionally between the lease and non-lease components (per FASB Example 12 Case C). Always verify the institution's accounting policy elections with Central Finance and auditors.",
+    "takeaway": "Variable NNN charges stay off the balance sheet; fixed CAM and component-combination elections directly change the recorded liability."
+  },
+  {
+    "day": 39,
+    "week": 6,
+    "track": "ASC 842 Lease Accounting & Portfolio Data Governance",
+    "kind": "walkthrough",
+    "title": "Deal Walkthrough: Modifications, Remeasurements, Partial Terminations, and TIAs",
+    "brief": "Walk through what happens to the balance sheet AFTER signing when real estate teams amend leases: (1) Lease Incentives / TIAs — landlord-paid TI reduces the ROU Asset (and reduces initial lease payments if received at or before commencement), lowering straight-line rent expense over the term; (2) Lease Modification that grants an additional right of use at standalone price = accounted for as a separate new contract; (3) Modification that extends term or changes rent without adding separate space = remeasure the liability at a NEW current IBR and adjust the ROU asset (no immediate P&L hit); (4) Partial Termination (giving back 5,000 SF of a 20,000 SF suite) = proportionately reduce the ROU asset and lease liability and recognize an immediate GAIN or LOSS in the income statement! Show why Real Estate must flag amendments to Central Finance BEFORE signature.",
+    "takeaway": "Extending a lease remeasures at today's IBR; giving back space triggers an immediate P&L gain or loss — preview accounting impact before signing."
+  },
+  {
+    "day": 40,
+    "week": 6,
+    "track": "ASC 842 Lease Accounting & Portfolio Data Governance",
+    "kind": "bridge",
+    "title": "Finance-to-Director Bridge: Embedded Leases, Related-Party Rules, and Footnote Disclosures",
+    "brief": "Connect technical ASC 842 rules to executive-level financial reporting and pre-signature deal reviews. Cover: (1) Embedded Leases — service or equipment contracts (imaging equipment, dedicated warehouse/parking, IT cages) that convey control over an identified asset are leases under 842 even if the contract never uses the word 'lease'; (2) Common-Control / Affiliate Leases (ASU 2023-01) — written terms govern for private/NFP entities under common control, and leasehold improvements amortize over their useful life to the common-control group; (3) Annual Financial Statement Footnotes — weighted-average remaining lease term, weighted-average discount rate (separate for operating vs. finance leases!), maturity table (next 5 years + thereafter reconciled to balance sheet liability), and why Real Estate owning clean source data makes Central Finance's audit effortless.",
+    "takeaway": "Pre-signature accounting reviews prevent balance-sheet surprises and turn Real Estate into a trusted partner to Central Finance and external auditors."
+  },
+  {
+    "day": 41,
+    "week": 6,
+    "track": "ASC 842 Lease Accounting & Portfolio Data Governance",
+    "kind": "red_flags",
+    "title": "Portfolio Data Governance and IWMS Transitions: One Source of Truth",
+    "brief": "Directly addresses Function 6 (portfolio data governance, reporting, and modern lease-system implementations). Explain why almost every large institutional real estate department suffers from 'three different property counts' across Finance, Lease Administration, Space Planning, and Facilities. Teach the Director's data-governance playbook: (1) Write a 1-page System-of-Record Map naming which system owns each fact (executed terms, building IDs, general ledger accounts, occupancy splits, maintenance tickets); (2) Build one Master Property Crosswalk linking every ID; (3) Enforce exception-driven quality checks (notice dates, rent steps, TI balances, expired leases) before going live on any new IWMS/lease platform; (4) Never migrate dirty spreadsheets into a new software system — clean and reconcile first.",
+    "takeaway": "Software never fixes conflicting spreadsheets — write a 1-page System-of-Record Map and clean the master crosswalk before cutover."
+  },
+  {
+    "day": 42,
+    "week": 6,
+    "track": "ASC 842 Lease Accounting & Portfolio Data Governance",
+    "kind": "panel_qa",
+    "title": "Week 6 Capstone Panel Drill: Sounding Like a Sitting Portfolio Director",
+    "brief": "Capstone executive panel simulation synthesizing all six tracks (Lease Mechanics, Negotiation Strategy, Lease-vs-Buy & Diligence, Healthcare/Higher-Ed Compliance, Renewal Governance & Brokers, ASC 842 & Data Governance). Run five integrative Director-level questions with pauses for spoken rehearsal and crisp 45-second model answers, then preview how the show continues daily into deeper institutional CRE cases, CCIM math, and portfolio strategy.",
+    "takeaway": "Speak in integrated decisions: mission need, all-in cost, compliance, balance-sheet impact, and next approval date."
+  }
+]

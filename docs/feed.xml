@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Director&#x27;s Desk: Institutional Real Estate</title>
+    <link>https://bel9777.github.io/directors-desk-re-podcast/</link>
+    <language>en-us</language>
+    <description>A daily two-host briefing on institutional, healthcare, and higher-ed commercial real estate: lease mechanics, deal economics, negotiation, lease-vs-buy, Stark/FMV compliance, brokerage governance, and ASC 842.</description>
+    <itunes:author>Director's Desk</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://bel9777.github.io/directors-desk-re-podcast/cover.png"/>
+    <atom:link href="https://bel9777.github.io/directors-desk-re-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Day 1: NNN, Modified Gross, and Full-Service Leases: How Money Actually Moves</title>
+      <description>Commercial Lease Mechanics &amp; Deal Fluency — NNN, Modified Gross, and Full-Service Leases: How Money Actually Moves. Rule of thumb: Always convert competing quotes to 5-year all-in occupancy cost per USF/RSF before comparing headline rents.</description>
+      <guid isPermaLink="false">directors-desk-re-day-001</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://bel9777.github.io/directors-desk-re-podcast/audio/day-001-nnn-modified-gross-and-full-service-leases-how-money-actuall-6634989.mp3" length="6634989" type="audio/mpeg"/>
+      <itunes:duration>9:12</itunes:duration>
+    </item>
+  </channel>
+</rss>

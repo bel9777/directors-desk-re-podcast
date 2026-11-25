@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.tmp.wav
+*.new.mp3
+task-*.xml
+data/emailed.json
+
+

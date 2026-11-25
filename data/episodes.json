@@ -1,0 +1,25 @@
+[
+ {
+  "day": 1,
+  "week": 1,
+  "track": "Commercial Lease Mechanics & Deal Fluency",
+  "kind": "lesson",
+  "title": "NNN, Modified Gross, and Full-Service Leases: How Money Actually Moves",
+  "takeaway": "Always convert competing quotes to 5-year all-in occupancy cost per USF/RSF before comparing headline rents.",
+  "format": "two-host",
+  "guid": "directors-desk-re-day-001",
+  "publishedAt": "2026-11-25T12:00:00",
+  "audioPath": "/audio/day-001-nnn-modified-gross-and-full-service-leases-how-money-actuall-6634989.mp3",
+  "transcriptPath": "/transcripts/day-001-6634989.txt",
+  "audioBytes": 6634989,
+  "durationSeconds": 552,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1534,
+   "lra": 4.7,
+   "lufs": -16.9,
+   "dipSeconds": 0.0,
+   "silenceRatio": 0.0
+  }
+ }
+]
