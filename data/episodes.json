@@ -1,5 +1,28 @@
 [
  {
+  "day": 2,
+  "week": 1,
+  "track": "Commercial Lease Mechanics & Deal Fluency",
+  "kind": "lesson",
+  "title": "CAM Pools, Gross-Up Clauses, Controllable Caps, and Audit Rights",
+  "takeaway": "Insist on non-cumulative caps on controllable CAM, consistent base-year gross-up, and explicit capital-expenditure exclusions.",
+  "format": "two-host",
+  "guid": "directors-desk-re-day-002",
+  "publishedAt": "2026-11-26T12:00:00",
+  "audioPath": "/audio/day-002-cam-pools-gross-up-clauses-controllable-caps-and-audit-right-6685389.mp3",
+  "transcriptPath": "/transcripts/day-002-6685389.txt",
+  "audioBytes": 6685389,
+  "durationSeconds": 557,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1522,
+   "lra": 4.1,
+   "lufs": -17.2,
+   "dipSeconds": 0.0,
+   "silenceRatio": 0.0
+  }
+ },
+ {
   "day": 1,
   "week": 1,
   "track": "Commercial Lease Mechanics & Deal Fluency",
