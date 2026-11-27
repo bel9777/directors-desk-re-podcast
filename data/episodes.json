@@ -1,5 +1,28 @@
 [
  {
+  "day": 3,
+  "week": 1,
+  "track": "Commercial Lease Mechanics & Deal Fluency",
+  "kind": "lesson",
+  "title": "Tenant Improvement Allowances, Turnkey Build-Outs, and Amortization Traps",
+  "takeaway": "Always strip amortized build-out costs out of base rent at renewal and negotiate rent-credit rights for unused TI dollars.",
+  "format": "two-host",
+  "guid": "directors-desk-re-day-003",
+  "publishedAt": "2026-11-27T12:00:00",
+  "audioPath": "/audio/day-003-tenant-improvement-allowances-turnkey-build-outs-and-amortiz-6124365.mp3",
+  "transcriptPath": "/transcripts/day-003-6124365.txt",
+  "audioBytes": 6124365,
+  "durationSeconds": 510,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1475,
+   "lra": 4.0,
+   "lufs": -16.9,
+   "dipSeconds": 0.0,
+   "silenceRatio": 0.0
+  }
+ },
+ {
   "day": 2,
   "week": 1,
   "track": "Commercial Lease Mechanics & Deal Fluency",
