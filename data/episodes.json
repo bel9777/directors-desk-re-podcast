@@ -1,5 +1,28 @@
 [
  {
+  "day": 4,
+  "week": 1,
+  "track": "Commercial Lease Mechanics & Deal Fluency",
+  "kind": "walkthrough",
+  "title": "Deal Walkthrough: Renewing a $26 NNN Suite vs. Relocating to a $34 Gross Building",
+  "takeaway": "Never compare Option A and Option B on base rent — include out-of-pocket CapEx above TI, move/IT costs, and downtime in the NPV.",
+  "format": "two-host",
+  "guid": "directors-desk-re-day-004",
+  "publishedAt": "2026-11-28T12:00:00",
+  "audioPath": "/audio/day-004-deal-walkthrough-renewing-a-26-nnn-suite-vs-relocating-to-a--5644557.mp3",
+  "transcriptPath": "/transcripts/day-004-5644557.txt",
+  "audioBytes": 5644557,
+  "durationSeconds": 470,
+  "ttsModel": "gemini-3.8-flash-tts",
+  "metrics": {
+   "words": 1307,
+   "lra": 3.5,
+   "lufs": -16.9,
+   "dipSeconds": 0.0,
+   "silenceRatio": 0.0
+  }
+ },
+ {
   "day": 3,
   "week": 1,
   "track": "Commercial Lease Mechanics & Deal Fluency",
